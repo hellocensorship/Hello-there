@@ -13,7 +13,7 @@ If you need to extend a Wi-Fi signal originating from an eSIM network to mobiles
 
 - If the Wi-Fi signal from the hotspot isn’t strong enough to cover the needed area, a Wi-Fi extender can help.
 - Models like Netgear EX8000 Nighthawk X6S, TP-Link RE650, or Linksys RE7000 are good choices.
-- A list of models can be found [here]([url](https://github.com/hellocensorship/Hello-there/blob/main/Wi-Fi%20Extender%20Models.md)) 
+- A list of models can be found https://github.com/hellocensorship/Hello-there/blob/main/Wi-Fi%20Extender%20Models.md 
 
 ## Setting Up the Network:
 
