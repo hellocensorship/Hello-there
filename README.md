@@ -20,7 +20,7 @@ If you need to extend a Wi-Fi signal originating from an eSIM network to mobiles
 ### Set Up the eSIM:
 - First, configure the eSIM on your device to connect to the cellular network.
 
-###Enable Hotspot:
+### Enable Hotspot:
 - Turn on the mobile hotspot feature on the device with the eSIM. This will create a Wi-Fi network that other devices can connect to.
 
 ### Connect Devices:
